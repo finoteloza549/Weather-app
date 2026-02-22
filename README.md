@@ -35,13 +35,8 @@ This project was built to practice JavaScript, API integration, and DOM manipula
 3. Click the search/check button
 4. View the weather details
 
-##  Live Demo
-(Add your GitHub Pages link here)
-
-
-
-##  Screenshot
-(Add a screenshot image here if available)
+##  Live link
+https://weather-app-pied-iota-68.vercel.app/
 
 
 ##  What I Learned
@@ -51,7 +46,7 @@ This project was built to practice JavaScript, API integration, and DOM manipula
 - Error handling in JavaScript
 - Working with user input
 
----
+
 
 ##  Author
 Finoteloza  
